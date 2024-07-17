@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-place",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Replace elements of an array with provided values according to a provided mask array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
     "@stdlib/array-base-assert-is-complex-floating-point-data-type": "^0.2.1",
     "@stdlib/array-base-assert-is-mostly-safe-data-type-cast": "^0.2.1",
     "@stdlib/array-base-assert-is-real-data-type": "^0.2.1",
-    "@stdlib/array-base-place": "github:stdlib-js/array-base-place#main",
+    "@stdlib/array-base-place": "^0.1.0",
     "@stdlib/array-convert": "^0.2.1",
     "@stdlib/array-dtype": "^0.2.1",
     "@stdlib/assert-has-own-property": "^0.2.1",
